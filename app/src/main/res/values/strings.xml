@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarTask</string>
+    <string name="fields_not_filled">Some of required fields are not filled</string>
+    <string name="invalid">Invalid username or password</string>
+    <string name="internet_connection">Something with internet connection occurred</string>
+    <string name="interrupted">Getting login was interrupted</string>
+</resources>
